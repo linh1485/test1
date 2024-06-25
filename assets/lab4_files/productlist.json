@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Iphone7",
+            "price": 999,
+            "img": "img_1.jpg",
+            "des": "Latest iPhone model with advanced features."
+        },
+        {
+            "id": "2",
+            "name": "Iphone8",
+            "price": 899,
+            "img": "img_2.jpg",
+            "des": "Latest iPhone model with advanced features."
+        },
+        {
+            "id": "3",
+            "name": "Iphone9",
+            "price": 499,
+            "img": "img_3.jpg",
+            "des": "Latest iPhone model with advanced features."
+        },
+        {
+            "id": "4",
+            "name": "Iphone12",
+            "price": 599,
+            "img": "img_4.jpg",
+            "des": "Latest iPhone model with advanced features."
+        },
+        {
+            "id": "5",
+            "name": "Iphone13",
+            "price": 699,
+            "img": "img_5.jpg",
+            "des": "Latest iPhone model with advanced features."
+        },
+        {
+            "id": "6",
+            "name": "Iphone11",
+            "price": 799,
+            "img": "img_6.jpg",
+            "des": "Latest iPhone model with advanced features."
+        }
+    ]
+}
